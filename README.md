@@ -48,9 +48,9 @@
     <header class="recipe-card__header">
       <h1>Simple Omelette Recipe</h1>
     </header>
-    <aside class="preparation-time">
+    <section> class="preparation-time">
       <!-- Дополнительная информация -->
-    </aside>
+    </section>
     <section class="recipe-section">
       <!-- Ингредиенты, инструкции -->
     </section>
